@@ -1,0 +1,23 @@
+.conteiner{
+    margin: auto;
+}
+.conteiner::before{
+    content: "";
+background-image: url(https://cpad.ask.fm/862/428/285/1650003031-1q7l8ti-dr3hqf9ei73hc6k/original/large1.jpg);
+background-position: center;
+background-size: cover;
+position: absolute;
+opacity: 70%;
+bottom: 0;
+top: 0;
+right: 0;
+left: 0;
+width: auto;
+height: auto;
+z-index: -1;
+}
+.conteiner h1, h2{
+    font-size: 2rem;
+}
+p::selection {color: red;}
+

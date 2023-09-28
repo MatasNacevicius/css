@@ -1,0 +1,13 @@
+img{
+    height: 200px;
+    width: auto;
+    float: right;
+    border-radius: 20px;
+}
+.remeliai{
+border: 2px dashed black;
+border-radius: 10px;
+width: 400px;
+height: 210px;
+}
+

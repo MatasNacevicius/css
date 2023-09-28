@@ -1,0 +1,10 @@
+
+div :first-child{
+    background-color: red;
+}
+div :nth-child(2){
+    background-color: green;
+}
+div :nth-child(3) 
+
+div :nth-child(4)

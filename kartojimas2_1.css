@@ -1,0 +1,80 @@
+header{
+    width: auto;
+    height: 100px;
+    background-color: orange;
+    position: relative;
+}
+div h2{
+    text-align: center;
+}
+.logo{
+    width: 100px;
+    height: 60px;
+    background-color: palevioletred;
+    float: left;
+    clear: left;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-left: 1%;
+}
+.nav{
+    width: 160px;
+    height: 60px;
+    background-color: lightcoral;
+    float: right;
+    clear: right;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-right:  2%;
+}
+main{
+    width: auto;
+    height: 400px;
+    background-color: lightskyblue;
+    position: relative;
+    margin-top: -0.5%;
+}
+.side{
+    width: 200px;
+    height: 350px;
+    background-color: lightsalmon;
+    float: left;
+    clear: left;
+    margin-top: 1%;
+    margin-bottom: 3%;
+    margin-left: 2%;
+}
+.sub1{
+    width: 1000px;
+    height: 150px;
+    background-color: darkturquoise;
+    float: right;
+    clear: right;
+    margin-top: 2%;
+    margin-right: 2%;
+
+}
+.sub2{
+    width: 1000px;
+    height: 150px;
+    background-color: darkblue;
+    float: right;
+    clear: right;
+    margin-top: 2%;
+    margin-right: 2%;
+    margin-bottom: -1%;
+}
+main h3{
+    color: aliceblue;
+    margin-left: 2%;
+}
+
+footer{
+    width: auto;
+    height: 60px;
+    margin-top: -1.1%;
+    background-color: lightgreen;
+}
+footer h3{
+    text-align: left;
+}

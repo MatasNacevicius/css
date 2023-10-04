@@ -6,3 +6,33 @@ header h3{
     background-color: gray;
     height: 50px;
 }
+div{
+    height: 200px;
+    width: 120px;
+
+}
+.left{
+    background-color: gray;
+    float: left;
+    display: inline;
+    margin-top: 0%;
+}
+.main{
+    background-color: gray;
+    height: 200px;
+    width: 1460px;
+    display: inline-block;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-top: 0%;
+}
+.right{
+    background-color: gray;
+    float: right;
+    display: inline;
+    margin-top: 0%;
+}
+footer{
+    background-color: gray;
+    height: 50px;
+}

@@ -1,0 +1,46 @@
+body::before{
+    content: "";
+    background-image: url(https://drvet.lt/wp-content/uploads/2022/08/dog-bitting-2.png);
+    background-position: center;
+    background-size: cover;
+    position: fixed;
+    opacity: 70%;
+    bottom: 0;
+    top: 0;
+    right: 0;
+    left: 0;
+    width: auto;
+    height: auto;
+    z-index: -1;
+}
+header{
+    width: auto;
+    height: 100px;
+    position: sticky;
+    top: 0px;
+    text-align: center;
+}
+.parent{
+    height: 500px;
+    width: 500px;
+    top: 0px;
+    float: left;
+   border: 10px;
+    background-color: grey;
+
+}
+.child{
+    position: relative;
+    top: 130px;
+    left: 130px;
+    right: 100px;
+    bottom: 100px;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    text-align: center;
+    text margin-top: auto;
+}
+p::after{
+
+}

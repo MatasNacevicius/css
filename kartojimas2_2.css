@@ -1,0 +1,50 @@
+h3{
+    text-align: center;
+    color: white;
+}
+header{
+    width: auto;
+    height: 100px;
+    background-color: aqua;
+}
+main{
+    width: auto;
+    height: 300px;
+    margin-top: -1.1%;
+}
+.left{
+    width: 522px;
+    height: 300px;
+    float: left;
+    clear: left;
+    display: inline;
+    background-color: red;
+}
+.main{
+    width: 700px;
+    height: 300px;
+    display: inline-block;
+    background-color: greenyellow;
+}
+.right{
+width: 522px;
+height: 300px;
+float: right;
+clear: right;
+display: inline;
+background-color: yellow;
+}
+footer{
+    width: auto;
+    height: 100px;
+    background-color: purple;
+}
+.box{
+    width: 300px;
+    height: 50px;
+    margin: 15px;
+    margin-right: 3%;
+    margin-left: 3%;
+    display: inline-block;
+    background-color: orangered;
+}
